@@ -18,7 +18,11 @@ Se agregan los datos  necesarios en el archivo properties.
 Se aniaden las dependencias necesarias en caso de que hagan falta en el archivo pom.xml
 
 Declaramos un nuevo paquete llamado models en el cual se ubican las clases Administrador y Empleado
+
+
 <img width="245" alt="Screen Shot 2022-05-09 at 09 14 54" src="https://user-images.githubusercontent.com/11546674/167407790-0aa12d48-73b8-4c52-bb48-7e7ab588f850.png">
 
 hacemos lo mismo para los otros paquetes 
+
+
 <img width="323" alt="Screen Shot 2022-05-09 at 09 15 42" src="https://user-images.githubusercontent.com/11546674/167407893-ce7541cd-dad9-4c46-9df1-c33b9bc1dd23.png">
